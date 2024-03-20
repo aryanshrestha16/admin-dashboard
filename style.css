@@ -115,6 +115,20 @@ body,html {
 
 a {
     text-decoration: none;
+}
+
+span > a:visited{
+    color: black;
+}
+span > a {
+    color: black;
+}
+
+i > a:visited {
+    color: white;
+}
+
+button > a {
     color: white;
     margin-left: 5px;
 }
