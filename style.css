@@ -215,7 +215,10 @@ hr {
 }
 
 #Dashboard {
+    padding-top:10px ;
+    font-size: 1.8rem;
     cursor: pointer;
+    margin-bottom: 40px;
 }
 
 .text > span {
